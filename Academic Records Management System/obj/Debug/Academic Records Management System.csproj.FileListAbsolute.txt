@@ -1,0 +1,19 @@
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\bin\Debug\Academic Records Management System.exe.config
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\bin\Debug\Academic Records Management System.exe
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\bin\Debug\Academic Records Management System.pdb
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\bin\Debug\EntityFramework.dll
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\bin\Debug\EntityFramework.SqlServer.dll
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\bin\Debug\EntityFramework.xml
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\bin\Debug\EntityFramework.SqlServer.xml
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic Records Management System.csproj.AssemblyReference.cache
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic_Records_Management_System.LoginForm.resources
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic_Records_Management_System.MainForm.resources
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic_Records_Management_System.Properties.Resources.resources
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic Records Management System.csproj.GenerateResource.cache
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic Records Management System.csproj.CoreCompileInputs.cache
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic Records Management System.csproj.CopyComplete
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic Records Management System.exe
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic Records Management System.pdb
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic_Records_Management_System.UpdateForm.resources
+E:\.Net\Winform\学籍管理系统\Academic Records Management System\Academic Records Management System\obj\Debug\Academic_Records_Management_System.AddForm.resources

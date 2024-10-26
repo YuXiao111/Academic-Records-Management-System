@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academic Records Management System", "Academic Records Management System\Academic Records Management System.csproj", "{B91CE1AE-7452-4DDD-ADF3-04DB7FDEF8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91CE1AE-7452-4DDD-ADF3-04DB7FDEF8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91CE1AE-7452-4DDD-ADF3-04DB7FDEF8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91CE1AE-7452-4DDD-ADF3-04DB7FDEF8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91CE1AE-7452-4DDD-ADF3-04DB7FDEF8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF63B487-4C9F-457B-9D83-D23672E6E03F}
+	EndGlobalSection
+EndGlobal

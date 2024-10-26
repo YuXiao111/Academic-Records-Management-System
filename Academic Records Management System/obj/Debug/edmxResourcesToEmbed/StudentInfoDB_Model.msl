@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudentInfoDBModelStoreContainer" CdmEntityContainer="StudentInfoDBEntities1">
+    <EntitySetMapping Name="Student">
+      <EntityTypeMapping TypeName="StudentInfoDBModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="InsertDate" ColumnName="InsertDate" />
+          <ScalarProperty Name="GraduateDate" ColumnName="GraduateDate" />
+          <ScalarProperty Name="EnrolDate" ColumnName="EnrolDate" />
+          <ScalarProperty Name="ClassNumber" ColumnName="ClassNumber" />
+          <ScalarProperty Name="Major" ColumnName="Major" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Telephne" ColumnName="Telephne" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="StudentInfoDBModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="InsertDate" ColumnName="InsertDate" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

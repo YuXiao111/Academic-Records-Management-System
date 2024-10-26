@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StudentInfoDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="StudentInfoDBEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Student" EntityType="StudentInfoDBModel.Student" />
+    <EntitySet Name="User" EntityType="StudentInfoDBModel.User" />
+  </EntityContainer>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Number" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sex" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="Telephne" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Major" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ClassNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EnrolDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="GraduateDate" Type="DateTime" Precision="3" />
+    <Property Name="InsertDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="32" FixedLength="false" Unicode="true" />
+    <Property Name="InsertDate" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>
